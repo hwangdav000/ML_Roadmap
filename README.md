@@ -25,6 +25,9 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 #### Data Web Scraping
 - Python Web Scraper: [youtube playlist](https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 
+#### Hacking
+- Network Chuck: [youtube channel](https://www.youtube.com/@NetworkChuck/videos)
+
 #### CS101. Computer architectures: general intro
 - Coursera: [From NAND to Tetris part I](https://www.coursera.org/learn/build-a-computer/home/welcome)
 
