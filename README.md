@@ -1,4 +1,4 @@
-This Roadmap is copied over from logancyang
+This Roadmap is copied over from logancyang + additional resources from me
 
 # My CS Degree - Full-Stack ML Engineering (2020)
 
