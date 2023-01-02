@@ -17,11 +17,13 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 
 ## General knowledge courses
 
-#### Linear Algebra
+#### Mathematics
 - Gilbert Strang (MIT) LinALg (Old): [youtube playlist](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
 - Gilbert Strang (MIT) Fall2011 LinAlg: [youtube playlist](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
 - Gilbert Strang (MIT) Calc: [youtube playlist](https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLFW_V3qDH5jRyfpD9uiq6aKVTWIxpbIm3)
 
+#### Data Web Scraping
+- Python Web Scraper: [youtube playlist](https://www.youtube.com/watch?v=ve_0h4Y8nuI&list=PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t)
 
 #### CS101. Computer architectures: general intro
 - Coursera: [From NAND to Tetris part I](https://www.coursera.org/learn/build-a-computer/home/welcome)
