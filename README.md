@@ -46,6 +46,8 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 #### CS201. Database: general intro
 - Architecture of a Database System [Paper](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - Berkeley [Course Playlist](https://www.youtube.com/user/CS186Berkeley/playlists)
+- Berkeley [Course Playlist Full](https://www.youtube.com/playlist?list=PLYp4IGUhNFmw8USiYMJvCUjZe79fvyYge)
+
 
 #### CS401. System Design
 - **Book: Designing Data Intensive Applications**
