@@ -19,7 +19,7 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 
 #### Mathematics
 - Gilbert Strang (MIT) LinALg (Old): [youtube playlist](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
-- Gilbert Strang (MIT) Fall2011 LinAlg: [youtube playlist](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+- Gilbert Strang (MIT) MIT 18.065 Lin Alg: [youtube playlist](https://www.youtube.com/watch?v=Xa2jPbURTjQ&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&index=5)
 - Gilbert Strang (MIT) Calc: [youtube playlist](https://www.youtube.com/watch?v=UcWsDwg1XwM&list=PLFW_V3qDH5jRyfpD9uiq6aKVTWIxpbIm3)
 
 #### Data Web Scraping
