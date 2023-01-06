@@ -55,6 +55,7 @@ If you are interested in the philosophy of the creation of this curriculum, I wr
 - Grokking the System Design Interview
 - [Gaurav Sen Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [Uber engineering blog series](https://eng.uber.com/tech-stack-part-one-foundation/)
+- [Github system design primer](https://github.com/donnemartin/system-design-primer#system-design-topics-start-here)
 
 
 #### CS403. Design Patterns
